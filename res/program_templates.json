@@ -1,0 +1,193 @@
+[
+
+	{
+		"meta" :
+		{
+			"name" : "Linear Progression",
+			"level" : "Novice"
+		},
+		
+		"info" :
+		{
+			"overview" : "Linear progressions offer the fastest gains for novice trainees. A linear progression focuses on compound movements and full-body workouts.",
+						  
+			"structuring" : "A linear progression workout should generally contain: A leg movement, an upper pushing movement, a lower back movement, and an upper pulling movement. Workouts can alternate with slightly different excersises such as one workout with bench press and the other with overhead press.",
+						
+			"work" : "Linear progressions typically focus on lower rep ranges, (around 5) with a few short sets (1-3). These programs are generally tailored towards strength gains and therefore go for higher intensity, lower volume.",
+					
+			"scheduling" : "Linear progression workouts are full-body, so workouts should always be done with 1-2 rest days in between sessions."
+		}
+	},
+	
+	{
+		"meta" :
+		{
+			"name" : "Push Pull",
+			"level" : "Novice, Intermediate"
+		},
+		
+		"info" :
+		{
+			"overview" : "Push Pull workouts focus on full-body training, but split the work slightly between push and pull. This offers greater training flexibility and slightly shorter workouts than a linear progression.",
+						  
+			"structuring" : "A push workout will generally contain: A leg movement, vertical pushing movements, and a horizontal pushing movements The pull workout will contain a lower back movement, vertical pulling movements, and horizontal pulling movements.",
+						
+			"work" : "Push/pull typically focus on lower rep ranges, (around 5) with a few short sets (1-3) for main movements. However, accessory work or main work can be done for higher volume (sets of 5-12) to drive conditioning/hypertrophy goals.",
+					
+			"scheduling" : "Alternate Push/Pull workouts. Push/Pull workouts are full-body, so workouts should generally be done with 1-2 rest days in between sessions. However, these workouts may be done back-to-back depending on how much the chosen movement patterns overlap."
+		}
+	},
+
+	{
+		"meta" :
+		{
+			"name" : "Full Body Split",
+			"level" : "Novice, Intermediate"
+		},
+		
+		"info" :
+		{
+			"overview" : "Full Body Split workouts focus on full-body training, but split up the movement patterns a bit for both upper and lower body. This template is useful for adding more variety and/or splitting up some of the training work that one would have to do each workout with a linear progression",
+ 
+			"structuring" : "Each workout contains a legs and/or lower back movement, plus roughly 1-3 upper body movements to fit the desired training goals",
+
+			"work" : "Full Body Splits typically focus on lower rep ranges, (around 5) with a few short sets (1-3) for main movements. However, accessory work or main work can be done for higher volume (sets of 5-12) to drive conditioning/hypertrophy goals.",
+
+			"scheduling" : "Alternate each full body workout; much like a push/pull or linear progression that has different workouts. There should be 1-2 rest days between each training session."
+		}
+	},
+    
+	{
+		"meta" :
+		{
+			"name" : "Free Form Full Body Split",
+			"level" : "Novice, Intermediate"
+		},
+		
+		"info" :
+		{
+			"overview" : "Similar to a Push/Pull or Full Body Split. This is a full-body, compound movement focused split where workouts are not split on the traditional lines of push/pull, upper/lower, etc.",
+ 
+			"structuring" : "Each workout contains a few different compound movements designed to fit the desired training goals",
+
+			"work" : "Full Body Splits typically focus on lower rep ranges, (around 5) with a few short sets (1-3) for main movements. However, accessory work or main work can be done for higher volume (sets of 5-12) to drive conditioning/hypertrophy goals.",
+
+			"scheduling" : "Alternate each full body workout; much like a push/pull or linear progression that has different workouts. There should be 1-2 rest days between each training session."
+		}
+	},
+	
+	{
+		"meta" :
+		{
+			"name" : "Minimalist Training",
+			"level" : "Novice, Intermediate"
+		},
+		
+		"info" :
+		{
+			"overview" : "Minimalist training is just what it sounds like - for the multi-sport athlete or just busy folks that still want some training. Training is purposely flexible.",
+						  
+			"structuring" : "Minimalist training can take the form of another one of these templates, such as a full-body, push pull, or one lift a day splits",
+						
+			"work" : "In general, the movements will be done for a small number of sets. Reps will depend on goals for each movement pattern and its consideration as main or accessory.",
+					
+			"scheduling" : "Scheduling will depend on the general template structure selected, and may be done as little or as often as needed for the trainee."
+		}
+	}, 
+
+	{
+		"meta" :
+		{
+			"name" : "One Lift a Day",
+			"level" : "Intermediate"
+		},
+		
+		"info" :
+		{
+			"overview" : "One lift a day training focuses on specific movement patterns and relevant accessories for each movement.",
+						  
+			"structuring" : "First, generally pick out 3-4 main movement patterns to focus on. Each workout will contain a main movement and several relevant accessories for each movement pattern.",
+						
+			"work" : "In general, the main movement will be done with a medium number of sets and low reps for strength gains. Accessory work will generally be done for higher volume.",
+					
+			"scheduling" : "Rotate through each movement day, performing most workouts back-to-back since there is little overlap between movement patterns. Aim for 1-3 rest days per week to recover from the high frequency of training."
+		}
+	},
+
+	{
+		"meta" :
+		{
+			"name" : "Push Pull Legs",
+			"level" : "Intermediate"
+		},
+		
+		"info" :
+		{
+			"overview" : "Push Pull Legs workouts split training further than push/pull movements to offer greater training flexibility and training volume targeting particular muscular systems.",
+						  
+			"structuring" : "A push workout will generally contain: vertical pushing movementsand a horizontal pushing movements The pull workout will contain vertical pulling movements, and horizontal pulling movements, and may contain lower back movements like the deadlift. The Legs workout will contain legs-focused work and optionally lower back movements depending on preference. In any of these workouts, accessory work may be added as needed.",
+						
+			"work" : "The level of work will depend on training goals. Push/pull/legs workouts focused primarily on strength will use lower rep ranges and numbers of sets, while conditioning/hypertrophy focused routines will choose higher reps and/or more sets.",
+					 
+			"scheduling" : "Push/Pull/Legs workouts will be alternated, and will usually be done back-to-back with 1-2 rest days per week. A lighter 3 day version can also be done, with 1-2 rest days between each workout. This schedule should only be done if work is intense/volume heavy enough to stimulate growth with each movement pattern only done once a week. A 5-6 day PPL is often preferred for higher training frequency."
+		}
+	},
+	
+	{
+		"meta" :
+		{
+			"name" : "Volume Light Heavy",
+			"level" : "Intermediate"
+		},
+		
+		"info" :
+		{
+			"overview" : "Volume/Light/Heavy workouts fluctuate between high volume and high intensity training to stimulate growth.",
+						  
+			"structuring" : "The volume workout will focus on high volume work, with either high reps or a high number of sets. The middle light workout focuses on recovery, with light work sets just to get blood flowing and retain form. Heavy sets are designed to focus on intensity and strength, with low numbers of sets and reps.",
+						
+			"work" : "Volume work will be done with a few high-rep sets (3-5 sets of 8-12 reps), or a high-number of low-rep sets (5x5 is popular). Light workouts should be done with low sets and reps with light weights (focused on recovery and form). Heavy days should focus on a small nubmer of sets and reps with the maximum weight. 1 set of 5 or 3-5 sets of 1 can be used depending on goals.",
+					 
+			"scheduling" : "Volume/Light/Heavy workouts will be alternated, with 1-2 days of rest between each workout."
+		}
+	},
+	
+	{
+		"meta" :
+		{
+			"name" : "Upper Lower",
+			"level" : "Intermediate"
+		},
+		
+		"info" :
+		{
+			"overview" : "Upper/Lower workouts split training concerns between upper body movement patterns and those that focus on the lower body. This offers short workouts and greater training flexibility.",
+						  
+			"structuring" : "An upper workout will generally contain a broad set of vertical and horizontal push and pull movements. Ancillary isolation work may be added as necessary. Lower body workouts will focus on the legs and lower back, again adding accessory work as needed.",
+						
+			"work" : "Upper/Lower training typically focus on lower rep ranges, (around 5) with a few short sets (1-3) for main movements. However, like Push/Pull training, accessory work or main work can be done for higher volume (sets of 5-12) to drive conditioning/hypertrophy goals.",
+					
+			"scheduling" : "Upper and lower workouts will generally be alternated, with 1-2 rest days in between or workouts done back to back. It is also possible to rotate 2 upper / 1 lower workouts to focus more on one part of the body than another."
+		}
+	},
+
+	{
+		"meta" :
+		{
+			"name" : "Bro Split Style Training",
+			"level" : "Novice, Intermediate"
+		},
+		
+		"info" :
+		{
+			"overview" : "A traditionally used workout template often targeted at hypertrophy goals",
+						  
+			"structuring" : "Bro split workouts are generally split along the lines of muscle groups rather than compound movements. For example, back/bicep day, chest/tricep day, leg day",
+						
+			"work" : "In general, the main movement will be done with a medium number of sets and higher reps for hypertrophy",
+					
+			"scheduling" : "Rotate through each muscle group day, performing most workouts back-to-back since there is little overlap between movement patterns. Aim for 1-3 rest days per week to recover from the high frequency of training."
+		}
+	} 
+    
+]

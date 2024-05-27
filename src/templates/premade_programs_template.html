@@ -1,0 +1,31 @@
+{# Jinja Template for Premade Programs #}
+
+<table border=1px solid black>
+
+<tr><th>Name: {{ meta.name }}</th></tr>
+
+<tr><th>Level: {{ meta.level }}</th></tr>
+
+<tr><th>Author: {{ meta.author}}</th></tr>
+
+<tr><th>Source: {{ meta.source }}</th></tr>
+
+<tr><th>Info: </th></tr>
+
+<tr><td><b>Overview:</b> {{ info.overview }}</td></tr>
+
+<tr><td><b>Scheduling:</b> {{ info.scheduling }}</td></tr>
+
+<tr><td><b>Progressing:</b> {{ info.progressing }}</td></tr>
+
+<tr><th><b>Workouts:</b> </th></tr>
+
+{% for name, workout in info.workouts | items %}
+<tr><td><b>{{ name }}</b></td></tr>
+{% for item in workout %}
+<tr><td>{{ item }}</td></tr>
+{% endfor %}
+{% endfor %}
+
+</table>
+<br>

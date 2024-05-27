@@ -1,0 +1,107 @@
+[	
+	{ 
+
+		"meta" : 
+		{
+			"name" : "Squat",
+			"categories" : [ "Legs" ]
+		},
+		
+		"main_variations" : 
+		[ 
+			"Low Bar Squat",
+			"High Bar Squat",
+			"Front Squat"
+		],
+		
+		"other_variations" :
+		[
+			"Overhead Squat",
+			"Goblet/Dumbell Squat"
+		]
+	},
+
+	{
+		"meta" : 
+		{
+			"name" : "Bench Press",
+			"categories" : [ "Horizontal Pushing" ]
+		},
+		
+		"main_variations" : 
+		[ 
+			"Bench Press",
+			"Dumbell Bench Press"
+		],
+		
+		"other_variations" :
+		[
+			"Pause Bench Press",
+			"Close-grip Bench Press",
+            "Wide-grip Bench Press",
+            "Floor Press"
+		]
+		
+	},
+
+	{
+		"meta" :
+		{
+			"name" : "Deadlift",
+			"categories" : [ "Lower Back", "Horizontal Pulling", "Legs" ]
+		},
+
+		"main_variations" :  
+		[
+			"Deadlift", 
+			"Sumo Deadlift"
+		],
+		
+		"other_variations" :
+		[
+			"Deficit Deadlift",
+			"Dumbell Deadlift",
+			"Stiff Legged Deadlift",
+			"Single Legged Deadlift"
+		]
+
+	},
+
+	{
+
+		"meta" :
+		{
+			"name" : "Rows",
+			"categories" : [ "Horizontal Pulling" ]
+		},
+		
+		"main_variations" : 
+		[ 
+			"Pendlay Row", 
+			"Kroc Row"
+		]
+
+	},
+	
+	{
+	
+		"meta" :
+		{
+			"name" : "Overhead Press",
+			"categories" : [ "Vertical Pushing" ]
+		},
+		
+		"main_variations" : 
+		[
+			"Overhead Press",
+			"Dumbell Overhead Press"			
+		],
+		
+		"other_variations" :
+		[
+			"Seated Overhead Press",
+			"Seated Dumbell Overhead Press"
+		]
+	}
+
+]

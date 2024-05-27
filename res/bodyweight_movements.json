@@ -1,0 +1,308 @@
+[
+	{
+
+		"meta" :
+		{
+			"name" : "L-sit",
+			"categories" : [ "Skill Work", "Vertical Pushing" ]
+		},
+
+		"progressions" : 
+		[ 
+			"Leg Supported L-sit", 
+			"One Leg Supported L-sit", 
+			"Tuck L-sit", 
+			"One Leg L-sit", 
+			"L-sit",
+			"Ring Tuck L-sit",
+			"Ring One Leg L-sit",
+			[ "Tuck V-sit", "Ring L-sit" ], 
+			[ "One Leg V-sit", "Rings Turned Out L-sit" ],
+			"Straddle L-sit",
+			"V-sit", 
+			"Manna"
+		]
+	},
+	
+	{
+
+		"meta" :
+		{
+			"name" : "Ring Support Hold",
+			"categories" : [ "Skill Work", "Vertical Pushing" ]
+		},
+
+		"progressions" : 
+		[ 
+			"Parallel Bar Support Hold",
+			"Assisted Ring Support Hold",
+			"Band Assisted Ring Support Hold",
+			"Ring Support Hold",
+			"Rings Turned Out Support Hold"
+		]
+	},
+	
+	{ 
+
+		"meta" :
+		{
+			"name" : "Squat",
+			"categories" : [ "Legs", "Lower Back" ]
+		},
+		
+		"progressions" : 
+		[ 
+			"Assisted Bodyweight Squat",
+			"Bodyweight Squat",
+			"Bulgarian Split Squat", 
+			"Assisted Pistol Squat", 
+			"Pistol Squat", 
+			"Shrimp Squat",
+			"Pause Pistol Squat",
+			"Pause Shrimp Squat"
+		]
+
+	},
+
+	{
+
+		"meta" :
+		{
+			"name" : "Chinups",
+			"categories" : [ "Vertical Pulling" ]
+		},
+		
+		"progressions" : 
+		[ 
+			[ "Assisted Chinups", "Band Assisted Chinups" ], 
+			"Negative Chinups",
+			"Chinups",
+			[ "Wide Chinups", "Close Grip Chinups" ],
+			"Tuck L-hang Chinups", 
+			"One Leg L-Hang Chinups", 
+			"L-Hang Chinups", 
+			"Archer Chinups", 
+			"Band Assisted One Arm Chinup Negatives",
+			[ "Assisted One Arm Chinups", "Band Assisted One Arm Chinups" ],
+			"Negative One Arm Chinups", 
+			"One Arm Chinups",
+			"Weighted Chinups"
+		]
+
+	},
+
+	{
+		"meta" :
+		{
+			"name" : "Dips",
+			"categories" : [ "Vertical Pushing", "Horizontal Pushing" ]
+		},
+		
+		"progressions" : 
+		[ 
+			"Bench Dips",
+			[ "Assisted Dips", "Band Assisted Dips" ],
+			"Dips",
+			[ "Tuck L-sit Dips", "Ring Dips", "Straight Bar Dips" ],
+			[ "One Leg L-sit Dips", "Ring Tuck L-sit Dips" ],
+			[ "L-sit Dips", "Ring One Leg L-sit Dips" ],
+			"Ring L-sit Dips", 
+			"Rings Turned Out Dips" 
+		]
+	},
+
+	{
+
+		"meta" : 
+		{
+			"name" : "Pushups",
+			"categories" : [ "Horizontal Pushing" ]
+		},
+		
+		"progressions" : 
+		[ 
+			"Knee Pushups",
+			[ "Incline Pushups", "Band Assisted Pushups" ],
+			"Negative Pushups",
+			"Pushups", 
+			"Decline Pushups", 
+			"Diamond Pushups", 
+			[ "Decline Diamond Pushups", "Ring Pushups" ], 
+			[ "Straddle Incline One Arm Pushups", "Rings Wide Pushups" ], 
+			[ "Straddle One Arm Pushups", "Ring Archer Pushups" ],
+			[ "Strict One Arm Pushups", "Rings Turned Out Pushups" ]
+		]
+	
+	},
+
+	{
+
+		"meta" : 
+		{
+			"name" : "Back Lever",
+			"categories" : [ "Lower Back", "Horizontal Pulling" ]
+		},
+		
+		"progressions" : 
+		[ 
+			"Inverted Tuck Hang",
+			"Inverted Hang",
+			"German Hang",
+			"Tuck Back Lever", 
+			"Band Assisted Tuck Back Lever",
+			"One Leg Back Lever", 
+			"Straddle Back Lever", 
+			"Back Lever" 
+		]
+
+	},
+
+	{
+
+		"meta" : 
+		{
+			"name" : "Front Lever",
+			"categories" : [ "Horizontal Pulling" ]
+		},
+		
+		"progressions" : 
+		[ 
+			"Inverted Tuck Hang",
+			"Inverted Hang",
+			"Tuck Front Lever",
+			"Band Assisted Tuck Front Lever",
+			"One Leg Front Lever", 
+			"Straddle Front Lever", 
+			"Front Lever" 
+		]
+
+	},
+	
+	{
+
+		"meta" : 
+		{
+			"name" : "Front Lever Rows",
+			"categories" : [ "Horizontal Pulling" ]
+		},
+		
+		"progressions" : 
+		[ 
+			"Tuck Front Lever Rows",
+			"Band Assisted Tuck Front Lever Rows",
+			"One Leg Front Lever Rows", 
+			"Straddle Front Lever Rows", 
+			"Front Lever Rows" 
+		]
+
+	},
+
+	{
+		"meta" :
+		{
+			"name" : "Planche",
+			"categories" : [ "Lower Back", "Horizontal Pushing" ]
+		},
+		
+		"progressions" : 
+		[ 
+			"Plank", 
+			"Planche Lean",
+			"One Leg Planche Lean",
+			"Frog Stand",
+			"Tuck Planche",
+			"One Leg Planche",
+			"Straddle Planche",
+			"Planche"
+		]
+
+	},
+	
+		{
+		"meta" :
+		{
+			"name" : "Planche Pushups",
+			"categories" : [ "Lower Back", "Horizontal Pushing" ]
+		},
+		
+		"progressions" : 
+		[ 
+			"Pseudo Planche Pushups",
+			"One Leg Pseudo Planche Pushups",
+			"Tuck Planche Pushups"
+		]
+
+	},
+	
+	{
+		"meta" :
+		{
+			"name" : "Handstand",
+			"categories" : [ "Skill Work", "Vertical Pushing" ]
+		},
+		
+		"progressions" : 
+		[ 
+			"Wall Handstand", 
+			"Free Handstand" 
+		]
+	
+	},
+	
+	{
+		"meta" :
+		{
+			"name" : "Hip Hinge",
+			"categories" : [ "Lower Back" ]
+		},
+		
+		"progressions" : 
+		[ 
+			"Stiff Legged Bodyweight Deadlift", 
+			"Single Leg Bodyweight Deadlift" 
+		]
+	
+	},
+	
+	{
+
+		"meta" :
+		{
+			"name" : "Handstand Pushup",
+			"categories" : [ "Vertical Pushing" ]
+		},
+		
+		"progressions" : 
+		[ 
+			"Pike Pushup",
+			"One Leg Pike Pushup",
+			"Pike Diamond Pushup", 
+			"Wall Bent Waist Handstand Pushup", 
+			"Wall Bent Waist Diamond Handstand Pushup", 
+			"Wall Handstand Pushup", 
+			"Handstand Pushup" 
+		]
+
+	},
+
+
+	{
+
+		"meta" : 
+		{
+			"name" : "Rows",
+			"categories" : [ "Horizontal Pulling" ]
+		},
+		
+		"progressions" : 
+		[ 
+			"Inverted Rows", 
+			"Wide Inverted Rows", 
+			"One Leg Inverted Rows", 
+			"Elevated Inverted Rows", 
+			"Elevated One Leg Inverted Rows" 
+		]
+
+	}
+
+]

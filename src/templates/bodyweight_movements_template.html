@@ -1,0 +1,22 @@
+{# Jinja Template for Bodyweight Movements #}
+
+<table border=1px solid black>
+
+<tr><th>Name: {{ meta.name }}</th></tr>
+
+<tr><th>Categories: {{ meta.categories | join(", ") }}</th></tr>
+
+<tr><th>Progressions: </th></tr>
+
+{% for progression in progressions %}
+
+{% if progression is string %}
+<tr><td>{{ progression}}</td></tr>
+{% elif progression is iterable %}
+<tr><td>{{ progression | join(", ") }}</td></tr>
+{% endif %}
+
+{% endfor %}
+
+</table>
+<br>

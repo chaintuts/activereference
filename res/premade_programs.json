@@ -1,0 +1,198 @@
+[
+	{
+		"meta":
+		{
+			"name" : "Starting Strength",
+			"author" : "Mark Rippetoe",
+			"source" : "Starting Strength Basic Barbell Training, 3rd Edition",
+			"level" : "Novice"
+		},
+
+		"info" : 
+		{
+			"overview" : "Starting Strength is a linear progression based program for novice lifters",
+			"scheduling" : "Alternate workouts A and B with at least 1 rest day between training sessions",
+			"progressing" : "Increase the weight on each excersise (except chinups) by 5 lbs. per workout. If you're young and recovering well, you may increase squats and deadlifts by 10 lbs. when starting out As lifts like the overhead press start to stall, you may want to increase the weight by 2.5 lbs. per session.",
+			
+			"workouts" :
+			{
+				"Workout A" : 
+				[
+					"3 sets of 5 Low Bar Squats", 
+					"3 sets of 5 Overhead Press", 
+					"1 set of 5 Deadlift", 
+					"3 sets of Chinups/Pullups, do as many as possible without going to failure. Chinups are generally preferred as they involve more muscle mass than pullups"
+				],
+				
+				"Workout B" : 
+				[
+					"3 sets of 5 Low Bar Squats", 
+					"3 sets of 5 Bench Press", 
+					"3 sets of 3 Power Cleans", 
+					"3 sets of Chinups/Pullups, do as many as possible without going to failure. Chinups are generally preferred as they involve more muscle mass than pullups"
+				]
+			}
+		}
+		
+	},
+	
+	{
+		"meta": 
+		{
+			"name" : "The Texas Method",
+			"author" : "Mark Rippetoe",
+			"source" : "Practical Programming for Strength Training, 3rd Edition",
+			"level" : "Intermediate"
+		},
+
+		"info" : 
+		{
+			"overview" : "The Texas Method is an intermediate program for dedicated lifters practicing optimal recovery techniques",
+			"scheduling" : "Do volume workout, recovery workout, and heavy workout in order with 1-2 rest days in between each workout session",
+			"progressing" : "Do volume workout sets with weight at 90% of the heavy day. Recovery workout weights should be roughly 80-90% of volume day. Increase the work weight on heavy day by 5 lbs. each week.",
+							
+			"workouts" :
+			{
+			
+				"Volume" : 
+				[
+					"5 sets of 5 Low Bar Squats", 
+					"5 sets of 5 Bench Press", 
+					"3 sets of 3 Power Cleans"
+				],
+				
+				"Recovery" : 
+				[
+					"2-3 sets of 5 Low Bar Squats",
+					"3 sets of 5 Overhead Press",
+					"3 sets of 3 Power Cleans"
+				],
+				
+				"Heavy" :
+				[
+					"1 set of 5 Squats",
+					"1 set of 5 Bench Press",
+					"1 set of 5 Deadlifts"
+				]
+			}
+		}
+		
+	},
+	
+	{
+		"meta": 
+		{
+			"name" : "The Texas Method for Powerlifting",
+			"author" : "Mark Rippetoe",
+			"source" : "Practical Programming for Strength Training, 3rd Edition",
+			"level" : "Intermediate"
+		},
+
+		"info" : 
+		{
+			"overview" : "The Texas Method for Powerlifting is a variant of The Texas Method designed for intermediate trainees focused on Powerlifting",
+			"scheduling" : "Do volume workout, recovery workout, and mock meet workout in order with 1-2 rest days in between each workout session",
+			"progressing" : "Do volume workout sets with weight at 70% of mock meet day singles. Recovery workout weights should be roughly 80-90% of volume day. Increase the work weight on mock meet day by 5 lbs. each week. Mock meet weight should be about 90% of actual 1 rep max for the lift.",
+							
+			"workouts" : 
+			{
+			
+				"Volume" : 
+				[
+					"3-5 sets of 5 Low Bar Squats", 
+					"3-5 sets of 5 Bench Press", 
+					"3 sets of 3 Power Cleans"
+				],
+				
+				"Recovery" : 
+				[
+					"2-3 sets of 5 Low Bar Squats",
+					"3 sets of 5 Overhead Press",
+					"3 sets of 3 Power Cleans"
+				],
+				
+				"Heavy" :
+				[
+					"5 sets of 1 Squats",
+					"5 sets of 1 Bench Press",
+					"3 sets of 1 Deadlifts"
+				]
+			}
+		}
+		
+	},
+
+	{
+		"meta":
+		{
+			"name" : "/r/bodyweightfitness Recommended Routine",
+			"author" : "/r/bodyweightfitness community",
+			"source" : "/r/bodyweightfitness",
+			"level" : "Novice"
+		},
+
+		"info" : 
+		{
+			"overview" : "The Recommended Routine is the /r/bodyweightfitness community's novice linear progression program. The program here is simplified to focus on the core strength development work.",
+			"scheduling" : "Do full body workout with at least 1 rest day between workouts",
+			"progressing" : "Do each progression for 5-8 reps, adding 1 rep per set each session. When you reach 8 reps, move to a harder progression and do 5 reps. Sometimes, moving down to 3 reps may be necessary.",
+			
+			"workouts" :
+			{
+				"Workout A" : 
+				[
+					"Skill Work",
+					"3 sets of 5-8 Chinup Progression", 
+					"3 sets of 5-8 Squat Progression", 
+					"3 sets of 5-8 Dip Progression", 
+					"3 sets of 5-8 Hip Hinge/Lower Back Progression",
+					"3 sets of 5-8 Horizontal Row Progression",
+					"3 sets of 5-8 Pushup Progression"
+				]
+			}
+		}
+		
+	},
+	
+	{
+		"meta":
+		{
+			"name" : "Barbell Medicine Beginner Prescription",
+			"author" : "Dr. Jordan Feigenbaum and Dr. Austin Baraki",
+			"source" : "Barbell Medicine Website",
+			"level" : "Novice"
+		},
+
+		"info" : 
+		{
+			"overview" : "The Beginner Prescription is a novice program that introduces strength and conditioning.",
+			"scheduling" : "Do full body workout with at least 1 rest day between workouts, occasional back-to-back days are OK if needed",
+			"progressing" : "Weight selection will gradually increase based on RPE (rate of perceived exertion) prescribed",
+			
+			"workouts" :
+			{
+				"Workout A" : 
+				[
+					"3x4 @ RPE 6, 7, 8 Squat",
+					"3x10 @ RPE 6, 7, 8 Bench Press",
+					"3x8 @ RPE 6, 7, 8 Deadlift"
+				],
+				
+				"Workout B" :
+				[
+					"3x4 @ RPE 6, 7, 8 Overhead Press",
+					"3x7 @ RPE 6, 7, 8 Squat",
+					"3x10 @ RPE 6, 7, 8 Pendlay Rows"
+				],
+
+				"Workout C" :
+				[
+					"3x4 @ RPE 6, 7, 8 Deadlift",
+					"3x8 @ RPE 6, 7, 8 Bench Press",
+					"3x10 @ RPE 6, 7, 8 Squat"
+				]
+			}
+		}
+		
+	}
+]

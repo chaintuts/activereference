@@ -1,0 +1,34 @@
+{# Jinja Template for Freeweight Movements #}
+
+<table border=1px solid black>
+
+<tr><th>Name: {{ meta.name }}</th></tr>
+
+<tr><th>Categories: {{ meta.categories | join(", ") }}</th></tr>
+
+<tr><th>Main Variations: </th></tr>
+
+{% for main_variation in main_variations %}
+
+{% if main_variation is string %}
+<tr><td>{{ main_variation}}</td></tr>
+{% elif main_variation is iterable %}
+<tr><td>{{ main_variation | join(", ") }}</td></tr>
+{% endif %}
+
+{% endfor %}
+
+<tr><th>Other Variations: </th></tr>
+
+{% for other_variation in other_variations %}
+
+{% if other_variation is string %}
+<tr><td>{{ other_variation}}</td></tr>
+{% elif other_variation is iterable %}
+<tr><td>{{ other_variation | join(", ") }}</td></tr>
+{% endif %}
+
+{% endfor %}
+
+</table>
+<br>
